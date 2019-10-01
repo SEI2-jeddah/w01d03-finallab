@@ -1,6 +1,6 @@
 ## Lab Questions
 
-1. [Rock, Paper, Scissors](https://en.wikipedia.org/wiki/Rock%E2%80%93paper%E2%80%93scissors) ([watch the game](https://www.youtube.com/watch?v=JtcHmiAcbZc))
+1. Rock, Paper, Scissors
     - Create a file in this repo named `rps.js`
     - Write a function that takes `rock`, `paper`, or `scissors` as an argument for the user choose, then chooses `rock`, `paper`, or `scissors` randomly for the computer choose, and returns whether the user `win`, `lose`, or `tie.
     - Example: `playGame('rock') // Computer picked: paper. User picked: rock.  User lose.`
